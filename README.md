@@ -14,7 +14,7 @@ Please Note:
 lgtvsdp.com
 lgappstv.com
 
-These two  entries are what seem to be required for the store to minimally work and fetch app updates 
+These two  entries are what seem to be required for the store to minimally work and fetch app updates,
 but if unblocked they fetch information for the trending section on the home screen 
 
 What I would recommend is once a month or if the apps break unticking the blocklist in AdGuard, 
