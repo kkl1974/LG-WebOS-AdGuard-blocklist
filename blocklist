@@ -5,10 +5,10 @@
 ||lgtvsdp.com^
 ||lgappstv.com^
 
-!The two above entries are what seem to be required for the store to work and fetch app updates
+!The two above entries are what seem to be required for the store to minimally work and fetch app updates
 !unfortunately these also enable the annoying content reccomendations on the home screen
 
-!What I would reccomend is disabling the blocklist in AdGuard, updating the apps and then re-enabling
+!What I would reccomend is disabling the blocklist in AdGuard, updating the apps and then re-enabling it
 
 ||cdpbeacon.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
