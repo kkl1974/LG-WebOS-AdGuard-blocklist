@@ -1,12 +1,14 @@
 ! Title:LG-WebOS-blocklist
 ! Description:LG-WebOS-blocklist
-! lgtvsdp.com 
-! lgappstv.com
-!||ad.lgappstv.com^
-!||us.ibs.lgappstv.com^
 
 
+||lgtvsdp.com^
+||lgappstv.com^
 
+!The two above entries are what seem to be required for the store to work and fetch app updates
+!unfortunately these also enable the annoying content reccomendations on the home screen
+
+!What I would reccomend is disabling the blocklist in AdGuard, updating the apps and then re-enabling
 
 ||cdpbeacon.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
@@ -30,4 +32,3 @@
 ||info.lgsmartad.com^
 ||ibs.lgappstv.com^
 ||smartshare.lgtvsdp.com^
-||
