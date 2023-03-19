@@ -1,5 +1,6 @@
 ! Title:LG-WebOS-blocklist
 ! Description:LG-WebOS-blocklist
+! lgtvsdp.com 
 
 
 ||cdpbeacon.lgtvcommon.com^
@@ -25,7 +26,6 @@
 ||rdx2.lgtvsdp.com^
 ||info.lgsmartad.com^
 ||ibs.lgappstv.com^
-||lgtvsdp.com^
 ||lgappstv.com^
 ||smartshare.lgtvsdp.com^
 ||lgappstv.com^
