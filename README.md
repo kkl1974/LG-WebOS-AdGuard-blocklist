@@ -2,6 +2,8 @@
 
 Remove all the Ads and menu clutter and Trending section from your LG Web OS 6 TV
 
+I noticed a speed increase after blocking LGs stuff, especially on the Home screen
+
 Tested in the UK on an LG C1 Webos 6.3 although it should work ok on other regions / models / WebOS versions
 
 1. Setup an AdGuard DNS instance on your network and make sure it is resolving the TV's queries
