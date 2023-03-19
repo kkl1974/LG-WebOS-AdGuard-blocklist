@@ -1,6 +1,6 @@
 # LG-WebOS-AdGuard-blocklist
 
-Remove all the ADs and menu clutter from your LG Web OS 6 TV
+Remove all the ADs and menu clutter and Trending section from your LG Web OS 6 TV
 
 Tested in the UK on an LG C1 Webos 6.3 although it should work ok on other regions + models + WebOS versions
 
@@ -19,3 +19,14 @@ but if unblocked they fetch information for the trending section on the home scr
 
 What I would recommend is once a month or if the apps break unticking the blocklist in AdGuard, 
 updating the apps and then re-enabling it
+
+# Before
+It scrolls down with loads of unwanted "recommendations"
+
+
+
+
+# After 
+Simple menu that doesn't scroll 
+
+
