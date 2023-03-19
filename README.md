@@ -23,10 +23,14 @@ updating the apps and then re-enabling it
 # Before
 It scrolls down with loads of unwanted "recommendations"
 
+![alt text](https://i.imgur.com/PESvJUh.jpg)
+
 
 
 
 # After 
 Simple menu that doesn't scroll 
+
+![alt text](https://i.imgur.com/ji2Q6U7.jpg)
 
 
